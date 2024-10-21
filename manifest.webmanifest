@@ -1,9 +1,9 @@
 {
-  "name": "Deft Error (3d road crosser)",
-  "short_name": "Deft Error (3d road crosser)",
-  "id": "com.example.roadcrosser",
+  "name": "跑酷",
+  "short_name": "跑酷",
+  "id": "com.example.gamename",
   "description": "",
-  "orientation": "portrait",
+  "orientation": "landscape",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "black",
